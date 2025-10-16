@@ -9,3 +9,4 @@
 | Entrega | Revisión final y exposición | Todos | 1 día |
 
 El proyecto se desarrolló en un periodo de 12 días, con comunicación continua y seguimiento mediante GitHub.
+
